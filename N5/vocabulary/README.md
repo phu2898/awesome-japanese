@@ -1,6 +1,8 @@
-# Từ vựng N5
+# N5
 
 ## Bài 1
+
+### Từ vựng
 
 | Kanji                | Ý nghĩa                        | Kana                   |
 | -------------------- | ------------------------------ | ---------------------- |
@@ -100,6 +102,329 @@
 | コーヒー             | Cà phê                         | コーヒー               |
 | ジュース             | Nước ép                        | ジュース               |
 | 酒                   | Rượu                           | さけ                   |
+
+### Ví dụ
+
+---
+
+#### Trong lớp: mệnh lệnh lịch sự
+
+A：授業を始めます。まず、私の後に言ってください。
+
+B：分かりました。
+
+A：「漢字と数字の例を見てください。それからノートに書いてください。」
+
+B：「一、二、三……はい、読んでください。」
+
+A：「この授業は十時に終わります。」
+
+Dịch:
+
+A: Bắt đầu giờ học. Trước hết, hãy nói theo tôi.
+
+B: Tôi hiểu rồi.
+
+A: Hãy xem ví dụ về chữ Hán và con số. Sau đó hãy viết vào vở.
+
+B: “Một, hai, ba…” vâng, xin mời đọc.
+
+A: Tiết học này kết thúc lúc 10 giờ.
+
+Từ vựng nổi bật: 始めます／言ってください／見てください／書いてください／読んでください／授業／漢字／数字／例／終わります／分かりました
+
+---
+
+#### Kiểm tra hiểu bài
+
+A：ここ、分かりましたか。
+
+B：すみません、分かりません。もう一度話してください。
+
+A：いいですよ。では、聞いてください。
+
+Dịch:
+
+A: Ở chỗ này, bạn hiểu chưa?
+
+B: Xin lỗi, tôi chưa hiểu. Xin hãy nói lại một lần nữa.
+
+A: Được chứ. Vậy, hãy nghe nhé.
+
+Từ vựng nổi bật: 分かりました／分かりません／すみません／話してください／聞いてください
+
+---
+
+#### Đi muộn & xin phép
+
+A：すみません、遅れます。電車が遅いです。
+
+B：分かりました。では、十一時から始めます。
+（授業後）
+
+A：お先に失礼します。
+
+B：お疲れ様でした。
+
+Dịch:
+
+A: Xin lỗi, tôi sẽ trễ. Tàu bị chậm.
+
+B: Tôi hiểu rồi. Vậy chúng ta bắt đầu từ 11 giờ.
+(Sau giờ học)
+A: Tôi xin phép đi trước.
+
+B: Vất vả rồi/ bạn làm tốt lắm.
+
+Từ vựng nổi bật: 遅れます／始めます／お先に失礼します／お疲れ様でした
+
+---
+
+#### Chào hỏi trong ngày
+
+A：お早うございます。
+
+B：こんにちは。きょうもよろしく。
+
+C：こんばんは。じゃあ、また。
+
+A：左様なら。
+
+Dịch:
+
+A: Chào buổi sáng.
+
+B: Xin chào (trong ngày). Hôm nay mong được giúp đỡ.
+
+C: Chào buổi tối. Hẹn gặp lại.
+
+A: Tạm biệt.
+
+Từ vựng nổi bật: お早うございます／今日は／今晩は／よろしく／じゃあ、また／左様なら
+
+---
+
+#### Lịch học & nghỉ
+
+A：来週の授業はどうしますか。
+
+B：火曜日は休みます。水曜日に始めます、金曜日に終わります。
+
+A：分かりました。ありがとうございます。
+
+B：いいえ。
+
+Dịch:
+
+A: Lịch học tuần sau thế nào?
+
+B: Thứ Ba tôi nghỉ. Bắt đầu vào thứ Tư, kết thúc vào thứ Sáu.
+
+A: Tôi hiểu rồi. Cảm ơn.
+
+B: Không có gì.
+
+Từ vựng nổi bật: 授業／休みます／始めます／終わります／ありがとうございます／いいえ／分かりました
+
+---
+
+#### Giới thiệu bản thân & nghề nghiệp
+
+A：私は田中です。会社員です。
+
+B：私は山田です。銀行員です。
+
+C：佐藤先生は教師です。
+
+D：鈴木さんはエンジニアで、木村くんは学生です。佐々木ちゃんは研究者の娘です。
+
+E：兄は医者です。
+
+Dịch:
+
+A: Tôi là Tanaka. Tôi là nhân viên công ty.
+
+B: Tôi là Yamada. Tôi là nhân viên ngân hàng.
+
+C: Thầy/cô Sato là giáo viên.
+
+D: Anh/chị Suzuki là kỹ sư, em Kimura là sinh viên. Bé Sasaki là con của nhà nghiên cứu.
+
+E: Anh trai tôi là bác sĩ.
+
+Từ vựng nổi bật: 私／さん／くん／ちゃん／学生／先生／教師／エンジニア／研究者／銀行員／会社員／医者
+
+---
+
+#### Quốc gia & địa danh
+
+A：ご出身は？
+
+B：ベトナムです。あなたは？
+
+A：日本です。東京に住んでいます。
+
+C：私はフランスから来ました。パリはきれいです。
+
+D：私はアメリカ、友だちはドイツとイギリス。
+
+E：父はインド、母はインドネシア。
+
+F：私はスペイン、彼はハンガリー。
+
+G：カナダ、エジプト、ロシア、ブラジル、フィリピン、メキシコにも友だちがいます。
+
+H：旅行はヨーロッパとアジア、アフリカ、オーストラリアに行きたいです。富士山も見たいです。
+
+Dịch:
+
+A: Bạn quê ở đâu?
+
+B: Việt Nam. Còn bạn?
+
+A: Nhật Bản. Tôi sống ở Tokyo.
+
+C: Tôi đến từ Pháp. Paris đẹp lắm.
+
+D: Tôi từ Mỹ, bạn tôi là người Đức và Anh.
+
+E: Bố tôi người Ấn Độ, mẹ tôi người Indonesia.
+
+F: Tôi người Tây Ban Nha, anh ấy người Hungary.
+
+G: Tôi cũng có bạn ở Canada, Ai Cập, Nga, Brazil, Philippines, Mexico.
+
+H: Tôi muốn đi du lịch châu Âu, châu Á, châu Phi, Úc. Cũng muốn ngắm núi Phú Sĩ.
+
+---
+
+#### Gia đình & xưng hô
+
+A：家族は何人ですか。
+
+B：四人です。私たちは父、母、弟と私です。
+
+A：貴方の弟は学生ですか。
+
+B：はい、先生に漢字を教室で習っています。
+
+Dịch:
+
+A: Gia đình bạn có mấy người?
+
+B: Bốn người. Chúng tôi gồm bố, mẹ, em trai và tôi.
+
+A: Em trai bạn là sinh viên à?
+
+B: Vâng, đang học chữ Hán trong lớp với cô/thầy.
+
+Từ vựng nổi bật: 家族／私たち／私／貴方／学生／先生／漢字／教室
+
+---
+
+#### Vật dụng quen thuộc
+
+A：机の上に時計と本があります。
+
+B：鍵はどこですか。
+
+A：窓の近くです。傘は椅子の横、犬と猫は家の中。
+
+B：野菜と卵と魚は？
+
+A：キッチンです。
+
+Dịch:
+
+A: Trên bàn có đồng hồ và sách.
+
+B: Chìa khóa ở đâu?
+
+A: Ở gần cửa sổ. Ô/dù ở cạnh ghế, chó và mèo ở trong nhà.
+
+B: Rau, trứng và cá thì sao?
+
+A: Ở bếp.
+
+Từ vựng nổi bật: 机／時計／本／鍵／窓／傘／椅子／犬／猫／家／野菜／卵／魚
+
+---
+
+#### Ăn uống & thời điểm
+
+A：朝はパンとコーヒーです。
+
+B：私は昼に天ぷら、夜はジュース。酒は未だです。
+
+A：そうですか。茶は？
+
+B：はい、茶が好きです。
+
+Dịch:
+
+A: Buổi sáng tôi ăn bánh mì và cà phê.
+
+B: Tôi ăn tempura vào buổi trưa, buổi tối uống nước ép. Rượu thì vẫn chưa.
+
+A: Vậy à. Trà thì sao?
+
+B: Có, tôi thích trà.
+
+Từ vựng nổi bật: 朝／昼／夜／パン／コーヒー／天ぷら／ジュース／酒／未だ／茶
+
+---
+
+#### Ở văn phòng/lớp: vào – ra phòng
+
+A：（ドアの前）失礼します。
+
+B：どうぞ。
+
+A：課題です。ここに書いてください。
+
+B：はい。— 完成しました。
+
+A：ありがとうございます。
+
+B：いいえ。
+
+Dịch:
+
+A: (Trước cửa) Xin phép.
+
+B: Mời vào.
+
+A: Đây là bài tập. Hãy viết vào đây.
+
+B: Vâng. — Hoàn thành rồi.
+
+A: Cảm ơn bạn.
+
+B: Không có gì.
+
+Từ vựng nổi bật: 失礼します／書いてください／ありがとうございます／いいえ
+
+---
+
+#### Gọi điện & tạm biệt
+
+A：もしもし、田中です。今、授業は終わりますか。
+
+B：いいえ、三時から始めます。
+
+A：分かりました。では、今日はここまで。じゃあ、また。
+
+B：さようなら。
+
+Dịch:
+
+A: A lô, tôi là Tanaka. Bây giờ tiết học kết thúc chưa?
+
+B: Chưa, từ 3 giờ mới bắt đầu.
+
+A: Tôi hiểu rồi. Vậy hôm nay đến đây nhé. Hẹn gặp lại.
+
+B: Tạm biệt.
 
 ## Bài 2
 
