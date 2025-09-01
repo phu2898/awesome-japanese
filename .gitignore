@@ -1,0 +1,26 @@
+# macOS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external volumes
+.Spotlight-V100
+.Trashes
+
+# macOS folder attributes
+.VolumeIcon.icns
+.metadata_never_index
+.fseventsd
+
+# macOS system logs and temporary files
+*.log
+*.swp
+
+# iCloud files
+*.icloud
