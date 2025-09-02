@@ -428,6 +428,8 @@ B: Tạm biệt.
 
 ## Bài 2
 
+### Từ vựng
+
 | Kanji                          | Ý nghĩa                   | Kana                             |
 | ------------------------------ | ------------------------- | -------------------------------- |
 | 林檎                           | Quả táo                   | りんご                           |
@@ -528,3 +530,177 @@ B: Tạm biệt.
 | はじめまして                   | Rất vui được gặp bạn      | はじめまして                     |
 | そうですか                     | Ra vậy à                  | そうですか                       |
 | すごいですね                   | Thật tuyệt                | すごいですね                     |
+
+### Ví dụ
+
+---
+
+#### Trong lớp học
+
+**Japanese:**
+A：これは何ですか。  
+B：それは**辞書**です。  
+A：あれは？  
+B：あれは**雑誌**です。
+
+**Tiếng Việt:**  
+A: Cái này là gì?  
+B: Cái đó là từ điển.  
+A: Thế kia là gì?  
+B: Kia là tạp chí.
+
+**Từ vựng nổi bật:** これ／それ／あれ／辞書／雑誌
+
+---
+
+#### Gặp nhau lần đầu
+
+**Japanese:**
+A：**はじめまして**。**私**はリンです。**ベトナム**から来ました。  
+B：**はじめまして**。**お名前は？**  
+A：リンです。**どうぞよろしくお願いします**。
+
+**Tiếng Việt:**  
+A: Rất vui được gặp bạn. Tôi là Linh, đến từ Việt Nam.  
+B: Rất vui được gặp bạn. Tên bạn là gì?  
+A: Tôi là Linh. Rất mong được giúp đỡ.
+
+**Từ vựng nổi bật:** はじめまして／私／ベトナム／お名前は？／どうぞよろしくお願いします
+
+---
+
+#### Đồ dùng trong cặp
+
+**Japanese:**
+A：**鞄**の中に何がありますか。  
+B：**鉛筆**と**ノート**があります。  
+A：**ボールペン**もありますか。  
+B：はい、あります。
+
+**Tiếng Việt:**  
+A: Trong cặp có gì thế?  
+B: Có bút chì và sổ ghi chép.  
+A: Có cả bút bi không?  
+B: Có, có đấy.
+
+**Từ vựng nổi bật:** 鞄／鉛筆／ノート／ボールペン
+
+---
+
+#### Giới thiệu gia đình
+
+**Japanese:**
+A：ご**家族**は何人ですか。  
+B：五人です。父と母と**妹**と**弟**と私です。  
+A：**そうですか**。にぎやかですね。
+
+**Tiếng Việt:**  
+A: Gia đình bạn có mấy người?  
+B: 5 người: bố, mẹ, em gái, em trai và tôi.  
+A: Ra vậy à. Vui vẻ nhỉ.
+
+**Từ vựng nổi bật:** 家族／父／母／妹／弟／私／そうですか
+
+---
+
+#### Nghề nghiệp
+
+**Japanese:**
+A：**お仕事は？**  
+B：私は**会社員**です。  
+A：彼は？  
+B：彼は**エンジニア**です。
+
+**Tiếng Việt:**  
+A: Nghề nghiệp của bạn là gì?  
+B: Tôi là nhân viên công ty.  
+A: Thế còn anh ấy?  
+B: Anh ấy là kỹ sư.
+
+**Từ vựng nổi bật:** お仕事は？／会社員／彼／エンジニア
+
+---
+
+#### Bạn bè gặp nhau
+
+**Japanese:**
+A：**友達**の山田さんです。  
+B：こんにちは。  
+C：こんにちは。あなたは**学生**ですか。  
+B：はい、**教師**に日本語を習っています。
+
+**Tiếng Việt:**  
+A: Đây là bạn tôi, anh Yamada.  
+B: Xin chào.  
+C: Xin chào. Bạn là sinh viên à?  
+B: Vâng, tôi đang học tiếng Nhật với thầy/cô giáo.
+
+**Từ vựng nổi bật:** 友達／学生／教師
+
+---
+
+#### Địa điểm và du lịch
+
+**Japanese:**
+A：休みにどこへ行きますか。  
+B：**東京**と**大阪**へ行きます。  
+A：**すごいですね**！私は**沖縄**へ行きたいです。
+
+**Tiếng Việt:**  
+A: Kỳ nghỉ bạn sẽ đi đâu?  
+B: Tôi sẽ đi Tokyo và Osaka.  
+A: Tuyệt quá! Tôi muốn đi Okinawa.
+
+**Từ vựng nổi bật:** 東京／大阪／沖縄／すごいですね
+
+---
+
+#### Miêu tả người
+
+**Japanese:**
+A：あの**男の子**は誰ですか。  
+B：私の弟です。とても**若い**です。  
+A：**かわいい**ですね。
+
+**Tiếng Việt:**  
+A: Cậu bé kia là ai?  
+B: Là em trai tôi. Rất trẻ.  
+A: Dễ thương nhỉ.
+
+**Từ vựng nổi bật:** 男の子／若い／かわいい／弟
+
+---
+
+#### Trong văn phòng
+
+**Japanese:**
+A：**名刺**をどうぞ。  
+B：ありがとうございます。これは**テレホンカード**ですか。  
+A：はい、そうです。
+
+**Tiếng Việt:**  
+A: Đây là danh thiếp của tôi.  
+B: Cảm ơn. Đây là thẻ điện thoại à?  
+A: Vâng, đúng rồi.
+
+**Từ vựng nổi bật:** 名刺／テレホンカード
+
+---
+
+#### Đồ điện tử
+
+**Japanese:**
+A：あの**コンピューター**はいくらですか。  
+B：十万円です。  
+A：この**カメラ**は？  
+B：三万円です。
+
+**Tiếng Việt:**  
+A: Cái máy tính kia giá bao nhiêu?  
+B: 100 ngàn yên.  
+A: Thế cái máy ảnh này thì sao?  
+B: 30 ngàn yên.
+
+**Từ vựng nổi bật:** コンピューター／カメラ／この／あの
+
+---
